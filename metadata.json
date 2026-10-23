@@ -1,0 +1,6 @@
+{
+  "name": "SaleSnap",
+  "description": "Fast small-business sales tracker for recording transactions on the go.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
